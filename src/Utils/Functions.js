@@ -1,4 +1,4 @@
-import { breakpoints, languages } from './Config';
+import { breakpoints } from './Config';
 
 export const setBreakPoint = () => {
   let BreakPoint = '';
